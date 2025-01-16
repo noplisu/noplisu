@@ -1,7 +1,6 @@
 <h1 align="left">Hello World. I'm Grzegorz Lisowski!</h1>
 
 ###
-<img src="https://github-readme-stats.vercel.app/api?username=noplisu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" align="right" />
 
 <div align="left">
   <a href="https://www.linkedin.com/in/glisowski91/" target="_blank">
@@ -17,6 +16,8 @@
 <h2 align="left">About Me 🚀</h2>
 
 ###
+
+<img src="https://github-readme-stats.vercel.app/api?username=noplisu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" align="right" />
 
 <p align="left">🌱 I’m a Full stack developer with a masters degree in Computer Science.<br>✨ Creating awesome projects since 2013<br>👨‍💻 I am passionate about Web Dev & I enjoy learning new things.</p>
 
