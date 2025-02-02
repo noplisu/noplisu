@@ -26,6 +26,10 @@
 
 <img src="https://raw.githubusercontent.com/noplisu/noplisu/output/snake.svg" alt="Snake animation" />
 
+<h2 align="left">Badges</h2>
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 
 <h2 align="left">Backend</h2>
 
