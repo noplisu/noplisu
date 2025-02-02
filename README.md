@@ -29,6 +29,7 @@
 <h2 align="left">Badges</h2>
 
 <!--START_SECTION:badges-->
+[![Git and GitHub Essentials](https://images.credly.com/size/120x120/images/9a0255eb-a47d-4f3a-9611-243bfe3eb9e4/image.png)](http://www.credly.com/badges/39d97468-c15c-41dc-9329-8df9f758d6fb "Git and GitHub Essentials")
 [![Introduction to Cloud Computing](https://images.credly.com/size/120x120/images/a9d0fe89-a11c-4266-8940-9eca7762b294/image.png)](http://www.credly.com/badges/0d81488c-b345-4ef8-ba07-9b9068cceb80 "Introduction to Cloud Computing")
 [![Software Engineering Essentials](https://images.credly.com/size/120x120/images/1b67aaf9-670d-4c92-8d51-7ac1190f0a42/image.png)](http://www.credly.com/badges/2f9621e4-10e4-409d-ac17-03a9509a1bd0 "Software Engineering Essentials")
 [![Introduction to HTML, CSS, & JavaScript](https://images.credly.com/size/120x120/images/09490195-093b-4c9f-9f31-bdc434e66a23/Coursera_20Introduction_20to_20HTML_20CSS_20and_20JavaScript.png)](http://www.credly.com/badges/37291c42-c057-440d-b3a9-4596361ffad4 "Introduction to HTML, CSS, & JavaScript")
