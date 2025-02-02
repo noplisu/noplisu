@@ -27,6 +27,7 @@
 <img src="https://raw.githubusercontent.com/noplisu/noplisu/output/snake.svg" alt="Snake animation" />
 
 <h2 align="left">Badges</h2>
+
 <!--START_SECTION:badges-->
 [![Introduction to Cloud Computing](https://images.credly.com/size/120x120/images/a9d0fe89-a11c-4266-8940-9eca7762b294/image.png)](http://www.credly.com/badges/0d81488c-b345-4ef8-ba07-9b9068cceb80 "Introduction to Cloud Computing")
 [![Software Engineering Essentials](https://images.credly.com/size/120x120/images/1b67aaf9-670d-4c92-8d51-7ac1190f0a42/image.png)](http://www.credly.com/badges/2f9621e4-10e4-409d-ac17-03a9509a1bd0 "Software Engineering Essentials")
