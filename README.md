@@ -41,120 +41,130 @@
 <h2 align="left">Backend</h2>
 
 
-<a href="https://github.com/noplisu/noplisu">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="Ruby" title="Ruby" />
-</a>
-<a href="https://github.com/noplisu/noplisu">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="40" alt="Ruby on Rails" title="Ruby on Rails" />
-</a>
-<a href="https://github.com/noplisu/noplisu">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="Apache Kafka" title="Apache Kafka"  />
-</a>
-<a href="https://github.com/noplisu/noplisu">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Nodejs" title="Nodejs" />
-</a>
-<a href="https://github.com/noplisu/noplisu">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="NextJS" title="NextJS" />
-</a>
-<a href="https://github.com/noplisu/noplisu">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="40" alt="Express" title="Express" />
-</a>
+<p dir="auto">
+  <a href="https://github.com/noplisu/noplisu">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="Ruby" title="Ruby" />
+  </a>
+  <a href="https://github.com/noplisu/noplisu">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="40" alt="Ruby on Rails" title="Ruby on Rails" />
+  </a>
+  <a href="https://github.com/noplisu/noplisu">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="Apache Kafka" title="Apache Kafka"  />
+  </a>
+  <a href="https://github.com/noplisu/noplisu">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Nodejs" title="Nodejs" />
+  </a>
+  <a href="https://github.com/noplisu/noplisu">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="NextJS" title="NextJS" />
+  </a>
+  <a href="https://github.com/noplisu/noplisu">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="40" alt="Express" title="Express" />
+  </a>
+</p>
 
 
 <h2 align="left">Frontend</h2>
 
 
-<a href="https://github.com/noplisu/noplisu"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="Javascript" title="Javascript" /></a>
-<a href="https://github.com/noplisu/noplisu">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="Typescript" title="Typescript" />
-</a>
-<a href="https://github.com/noplisu/noplisu">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" />
-</a>
-<a href="https://github.com/noplisu/noplisu">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ember/ember-original-wordmark.svg" height="40" alt="EmberJS" title="EmberJS" />
-</a>
-<a href="https://github.com/noplisu/noplisu">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" title="Bootstrap" />
-</a>
-<a href="https://github.com/noplisu/noplisu">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind" title="Tailwind" />
-</a>
-<a href="https://github.com/noplisu/noplisu">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="Sass" title="Sass" />
-</a>
-<a href="https://github.com/noplisu/noplisu">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" title="html5" />
-</a>
-<a href="https://github.com/noplisu/noplisu">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="Css3" title="Css3" />
-</a>
+<p dir="auto">
+  <a href="https://github.com/noplisu/noplisu"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="Javascript" title="Javascript" /></a>
+  <a href="https://github.com/noplisu/noplisu">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="Typescript" title="Typescript" />
+  </a>
+  <a href="https://github.com/noplisu/noplisu">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" />
+  </a>
+  <a href="https://github.com/noplisu/noplisu">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ember/ember-original-wordmark.svg" height="40" alt="EmberJS" title="EmberJS" />
+  </a>
+  <a href="https://github.com/noplisu/noplisu">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" title="Bootstrap" />
+  </a>
+  <a href="https://github.com/noplisu/noplisu">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind" title="Tailwind" />
+  </a>
+  <a href="https://github.com/noplisu/noplisu">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="Sass" title="Sass" />
+  </a>
+  <a href="https://github.com/noplisu/noplisu">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" title="html5" />
+  </a>
+  <a href="https://github.com/noplisu/noplisu">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="Css3" title="Css3" />
+  </a>
+</p>
 
 
 <h2 align="left">Database</h2>
 
 
-<a href="https://github.com/noplisu/noplisu">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="Postgresql" title="Postgresql" />
-</a>
-<a href="https://github.com/noplisu/noplisu">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="Mysql" title="Mysql" />
-</a>
-<a href="https://github.com/noplisu/noplisu">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="Sqlite" title="Sqlite" />
-</a>
+<p dir="auto">
+  <a href="https://github.com/noplisu/noplisu">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="Postgresql" title="Postgresql" />
+  </a>
+  <a href="https://github.com/noplisu/noplisu">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="Mysql" title="Mysql" />
+  </a>
+  <a href="https://github.com/noplisu/noplisu">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="Sqlite" title="Sqlite" />
+  </a>
+</p>
 
 
 <h2 align="left">AR/VR</h2>
 
 
-<a href="https://github.com/noplisu/noplisu">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="Unity" title="Unity" />
-</a>
-<a href="https://github.com/noplisu/noplisu">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="Threejs" title="Threejs" />
-</a>
+<p dir="auto">
+  <a href="https://github.com/noplisu/noplisu">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="Unity" title="Unity" />
+  </a>
+  <a href="https://github.com/noplisu/noplisu">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="Threejs" title="Threejs" />
+  </a>
+</p>
 
 
 <h2 align="left">Devops, Testing & Project Management</h2>
 
 
-<a href="https://github.com/noplisu/noplisu">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg" height="40" alt="Rspec" title="Rspec" />
-</a>
-<a href="https://github.com/noplisu/noplisu">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="Jest" title="Jest" />
-</a>
-<a href="https://github.com/noplisu/noplisu">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="Selenium" title="Selenium" />
-</a>
-<a href="https://github.com/noplisu/noplisu">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="Eslint" title="Eslint" />
-</a>
-<a href="https://github.com/noplisu/noplisu">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="Jenkins" title="Jenkins" />
-</a>
-<a href="https://github.com/noplisu/noplisu">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker" />
-</a>
-<a href="https://github.com/noplisu/noplisu">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="Terraform" title="Terraform" />
-</a>
-<a href="https://github.com/noplisu/noplisu">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" alt="Heroku" title="Heroku" />
-</a>
-<a href="https://github.com/noplisu/noplisu">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud" title="Google Cloud" />
-</a>
-<a href="https://github.com/noplisu/noplisu">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
-</a>
-<a href="https://github.com/noplisu/noplisu">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="Github" title="Github" />
-</a>
-<a href="https://github.com/noplisu/noplisu">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="Gitlab" title="Gitlab" />
-</a>
-<a href="https://github.com/noplisu/noplisu">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" alt="Bitbucket" title="Bitbucket" />
-</a>
+<p dir="auto">
+  <a href="https://github.com/noplisu/noplisu">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg" height="40" alt="Rspec" title="Rspec" />
+  </a>
+  <a href="https://github.com/noplisu/noplisu">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="Jest" title="Jest" />
+  </a>
+  <a href="https://github.com/noplisu/noplisu">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="Selenium" title="Selenium" />
+  </a>
+  <a href="https://github.com/noplisu/noplisu">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="Eslint" title="Eslint" />
+  </a>
+  <a href="https://github.com/noplisu/noplisu">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="Jenkins" title="Jenkins" />
+  </a>
+  <a href="https://github.com/noplisu/noplisu">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker" />
+  </a>
+  <a href="https://github.com/noplisu/noplisu">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="Terraform" title="Terraform" />
+  </a>
+  <a href="https://github.com/noplisu/noplisu">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" alt="Heroku" title="Heroku" />
+  </a>
+  <a href="https://github.com/noplisu/noplisu">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud" title="Google Cloud" />
+  </a>
+  <a href="https://github.com/noplisu/noplisu">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
+  </a>
+  <a href="https://github.com/noplisu/noplisu">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="Github" title="Github" />
+  </a>
+  <a href="https://github.com/noplisu/noplisu">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="Gitlab" title="Gitlab" />
+  </a>
+  <a href="https://github.com/noplisu/noplisu">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" alt="Bitbucket" title="Bitbucket" />
+  </a>
+</p>
