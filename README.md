@@ -26,7 +26,7 @@
 
 <img src="https://raw.githubusercontent.com/noplisu/noplisu/output/snake.svg" alt="Snake animation" />
 
-<h2 align="left">Badges</h2>
+<h2 align="left">Certificates</h2>
 
 <!--START_SECTION:badges-->
 [![Python Project for AI and Application Development](https://images.credly.com/size/120x120/images/33ed2910-9750-4613-aa2a-590e845c6edb/image.png)](http://www.credly.com/badges/17d7313d-bb20-44a4-8177-da3af532ade0 "Python Project for AI and Application Development")
