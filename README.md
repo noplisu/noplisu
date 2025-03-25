@@ -14,14 +14,12 @@
 <h2 align="left">About Me 🚀</h2>
 
 
+<p align="left">🌱 I’m a Full stack developer with a masters degree in Computer Science.<br>✨ Creating awesome projects since 2013<br>👨‍💻 I am passionate about Web Dev & I enjoy learning new things.</p>
+
+
 <div align="left">
   <img src="https://github-profile-trophy.vercel.app?username=noplisu&theme=dracula&column=-1&margin-w=8&margin-h=8&rank=-?" alt="trophy graph"  />
 </div>
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=noplisu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" align="right" />
-
-<p align="left">🌱 I’m a Full stack developer with a masters degree in Computer Science.<br>✨ Creating awesome projects since 2013<br>👨‍💻 I am passionate about Web Dev & I enjoy learning new things.</p>
 
 
 <img src="https://raw.githubusercontent.com/noplisu/noplisu/output/snake.svg" alt="Snake animation" />
