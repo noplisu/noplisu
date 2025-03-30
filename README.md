@@ -23,6 +23,7 @@
 <h2 align="left">Certificates</h2>
 
 <!--START_SECTION:badges-->
+[![Containers & Kubernetes Essentials](https://images.credly.com/size/120x120/images/fadae326-142d-4855-a42f-f0b07e65eac1/image.png)](http://www.credly.com/badges/ef5cbddd-273e-431d-b40b-a017225cad81 "Containers & Kubernetes Essentials")
 [![Developing Applications with SQL, Databases, and Django](https://images.credly.com/size/120x120/images/99ac9d76-89ad-42d9-abad-0b3167c4c566/image.png)](http://www.credly.com/badges/fc911ce1-2a1b-4440-8279-85583c139544 "Developing Applications with SQL, Databases, and Django")
 [![Python Project for AI and Application Development](https://images.credly.com/size/120x120/images/33ed2910-9750-4613-aa2a-590e845c6edb/image.png)](http://www.credly.com/badges/17d7313d-bb20-44a4-8177-da3af532ade0 "Python Project for AI and Application Development")
 [![Python for Data Science and AI](https://images.credly.com/size/120x120/images/40bee502-a5b3-4365-90e7-57eed5067594/image.png)](http://www.credly.com/badges/119f0f0f-5665-479e-93c0-82a3672794fc "Python for Data Science and AI")
