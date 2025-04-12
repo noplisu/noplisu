@@ -23,6 +23,8 @@
 <h2 align="left">Certificates</h2>
 
 <!--START_SECTION:badges-->
+[![Full Stack Software Developer Assessment V2](https://images.credly.com/size/120x120/images/aaf2d039-1b58-47f4-9d8c-dc94f686ca2f/image.png)](http://www.credly.com/badges/4c61cd1b-dd85-4c98-8cac-1ba60bb05ea8 "Full Stack Software Developer Assessment V2")
+[![Full Stack Application Development Capstone Project V2](https://images.credly.com/size/120x120/images/0bb5db18-6ae0-4993-9701-0c841d4d6e72/image.png)](http://www.credly.com/badges/04dfc447-a345-4d84-ad33-5085cf4d12e0 "Full Stack Application Development Capstone Project V2")
 [![Application Development using Microservices and Serverless](https://images.credly.com/size/120x120/images/eaaf4a45-b93e-41d1-91d3-d331c6210314/image.png)](http://www.credly.com/badges/2a864863-ece6-476b-a419-c09e8b7bf5c3 "Application Development using Microservices and Serverless")
 [![Containers & Kubernetes Essentials](https://images.credly.com/size/120x120/images/fadae326-142d-4855-a42f-f0b07e65eac1/image.png)](http://www.credly.com/badges/ef5cbddd-273e-431d-b40b-a017225cad81 "Containers & Kubernetes Essentials")
 [![Developing Applications with SQL, Databases, and Django](https://images.credly.com/size/120x120/images/99ac9d76-89ad-42d9-abad-0b3167c4c566/image.png)](http://www.credly.com/badges/fc911ce1-2a1b-4440-8279-85583c139544 "Developing Applications with SQL, Databases, and Django")
