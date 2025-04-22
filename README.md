@@ -23,6 +23,7 @@
 <h2 align="left">Certificates</h2>
 
 <!--START_SECTION:badges-->
+[![Generative AI Essentials for Software Developers](https://images.credly.com/size/120x120/images/afaacd18-d4a9-48af-b54c-846615756ec7/image.png)](http://www.credly.com/badges/079b1116-d474-42c3-ba74-ee565c120e97 "Generative AI Essentials for Software Developers")
 [![Full Stack Software Developer Assessment V2](https://images.credly.com/size/120x120/images/aaf2d039-1b58-47f4-9d8c-dc94f686ca2f/image.png)](http://www.credly.com/badges/4c61cd1b-dd85-4c98-8cac-1ba60bb05ea8 "Full Stack Software Developer Assessment V2")
 [![Full Stack Application Development Capstone Project V2](https://images.credly.com/size/120x120/images/0bb5db18-6ae0-4993-9701-0c841d4d6e72/image.png)](http://www.credly.com/badges/04dfc447-a345-4d84-ad33-5085cf4d12e0 "Full Stack Application Development Capstone Project V2")
 [![Application Development using Microservices and Serverless](https://images.credly.com/size/120x120/images/eaaf4a45-b93e-41d1-91d3-d331c6210314/image.png)](http://www.credly.com/badges/2a864863-ece6-476b-a419-c09e8b7bf5c3 "Application Development using Microservices and Serverless")
