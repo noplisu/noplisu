@@ -15,6 +15,6 @@ jobs:
       contents: write
     steps:
       - name: Badges - Readme
-        uses: pemtajo/badge-readme@main
+        uses: noplisu/badge-readme@main
         with:
           BADGE_SIZE: 120
