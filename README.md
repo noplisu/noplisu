@@ -12,12 +12,6 @@
 
 <p align="left">🌱 I’m a Full stack developer with a masters degree in Computer Science.<br>✨ Creating awesome projects since 2013<br>👨‍💻 I am passionate about Web Dev & I enjoy learning new things.</p>
 
-
-<div align="left">
-  <img src="https://github-profile-trophy.vercel.app?username=noplisu&theme=dracula&column=-1&margin-w=8&margin-h=8&rank=-?" alt="trophy graph"  />
-</div>
-
-
 <img src="https://raw.githubusercontent.com/noplisu/noplisu/output/snake.svg" alt="Snake animation" />
 
 <h2 align="left">Certificates</h2>
