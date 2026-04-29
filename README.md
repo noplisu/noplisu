@@ -2,8 +2,8 @@
 
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/glisowski91/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
-  <a href="https://noplisu.com" target="_blank"><img src="https://noplisu.github.io/logo.svg" width="52" height="40" alt="portfolio"  /></a>
+  <a href="https://www.linkedin.com/in/glisowski91/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" style="display: inline-block; height: 40px;" alt="linkedin logo"  /></a>
+  <a href="https://noplisu.com" target="_blank"><img src="https://noplisu.github.io/logo.svg" style="display: inline-block; height: 40px;" alt="portfolio"  /></a>
 </div>
 
 
