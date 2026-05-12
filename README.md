@@ -16,6 +16,9 @@
 
 <h2 align="left">Certificates</h2>
 
+<!-- Begin: HubSpot Academy - Inbound Marketing Certified Badge -->
+<a href='https://app-eu1.hubspot.com/academy/achievements/2t1bnm40/en/1/grzegorz-lisowski/inbound-marketing-certified' title='Inbound Marketing Certified'><img style="display: inline; height: 100px;" src='https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/74e6e2baa47040168c2ccb201d94cb77.png'></a>
+<!-- End: HubSpot Academy - Inbound Marketing Certified Badge -->
 <!--START_SECTION:badges-->
 <a href="https://www.credly.com/badges/37291c42-c057-440d-b3a9-4596361ffad4" title="Introduction to HTML, CSS, & JavaScript"><img src="https://images.credly.com/size/80x80/images/09490195-093b-4c9f-9f31-bdc434e66a23/Coursera_20Introduction_20to_20HTML_20CSS_20and_20JavaScript.png" alt="Introduction to HTML, CSS, & JavaScript"></a>
 <a href="https://www.credly.com/badges/2f9621e4-10e4-409d-ac17-03a9509a1bd0" title="Software Engineering Essentials"><img src="https://images.credly.com/size/80x80/images/1b67aaf9-670d-4c92-8d51-7ac1190f0a42/image.png" alt="Software Engineering Essentials"></a>
