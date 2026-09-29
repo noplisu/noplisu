@@ -16,9 +16,33 @@
 
 <h2 align="left">Certificates</h2>
 
-<!-- Begin: HubSpot Academy - Inbound Marketing Certified Badge -->
-<a href='https://app-eu1.hubspot.com/academy/achievements/2t1bnm40/en/1/grzegorz-lisowski/inbound-marketing-certified' title='Inbound Marketing Certified'><img style="display: inline; height: 100px;" src='https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/74e6e2baa47040168c2ccb201d94cb77.png'></a>
-<!-- End: HubSpot Academy - Inbound Marketing Certified Badge -->
+<p align="left">Selected credentials first — full Coursera / Credly wall below.</p>
+
+<h3 align="left">Featured</h3>
+
+<p align="left">
+  <a href="https://train.qdrant.dev/certificate/QDRANT-DD9E9575" title="Qdrant Essentials"><img src="badges/qdrant.svg" height="80" alt="Qdrant Essentials"></a>
+  <a href="https://academy.claude.com/verify/acdedfb7467b51df145eba35610632c9" title="Claude Academy: Claude Code 101"><img src="badges/anthropic.svg" height="80" alt="Claude Academy: Claude Code 101"></a>
+  <a href="https://academy.claude.com/verify/42bfa9b662286916c5693728b247a0c9" title="Claude Academy: AI Fluency for builders"><img src="badges/anthropic.svg" height="80" alt="Claude Academy: AI Fluency for builders"></a>
+  <a href="https://www.coursera.org/account/accomplishments/verify/UP8AVLZ6WD1G" title="AWS Cloud Technical Essentials"><img src="badges/aws.svg" height="80" alt="AWS Cloud Technical Essentials"></a>
+  <a href="https://www.credly.com/badges/877b9833-261e-4e47-aa49-1e044e2a9e28" title="IBM Full Stack Software Developer Professional Certificate (V5)"><img src="https://images.credly.com/size/120x120/images/17add978-0cea-40e8-8832-9492fc7c260b/Coursera_20Full_20Stack_20Software_20Developer_20Prof_20Cert_20V5.png" height="80" alt="IBM Full Stack Software Developer Professional Certificate (V5)"></a>
+  <a href="https://www.coursera.org/account/accomplishments/verify/JR9NT3HD4PO1" title="Generative AI: Elevate your Software Development Career"><img src="https://images.credly.com/size/120x120/images/afaacd18-d4a9-48af-b54c-846615756ec7/image.png" height="80" alt="Generative AI: Elevate your Software Development Career"></a>
+  <!-- Begin: HubSpot Academy - Inbound Marketing Certified Badge -->
+  <a href="https://app-eu1.hubspot.com/academy/achievements/2t1bnm40/en/1/grzegorz-lisowski/inbound-marketing-certified" title="Inbound Marketing Certified"><img style="display: inline; height: 80px;" src="https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/74e6e2baa47040168c2ccb201d94cb77.png" alt="Inbound Marketing Certified"></a>
+  <!-- End: HubSpot Academy - Inbound Marketing Certified Badge -->
+</p>
+
+<details>
+  <summary><strong>Claude Academy</strong> (additional verify links)</summary>
+  <p>
+    <a href="https://academy.claude.com/verify/756b1bd56499ff0f51da77fa07cf39a2">Claude 101</a> ·
+    <a href="https://academy.claude.com/verify/fd8a6899769d909f6744ba30d05f0003">AI capabilities and limitations</a> ·
+    <a href="https://academy.claude.com/verify/6a75a9fa44f6d3e58bd53b19204c2521">AI Fluency: Framework and foundations</a>
+  </p>
+</details>
+
+<h3 align="left">Coursera / Credly</h3>
+
 <!--START_SECTION:badges-->
 <a href="https://www.credly.com/badges/37291c42-c057-440d-b3a9-4596361ffad4" title="Introduction to HTML, CSS, & JavaScript"><img src="https://images.credly.com/size/80x80/images/09490195-093b-4c9f-9f31-bdc434e66a23/Coursera_20Introduction_20to_20HTML_20CSS_20and_20JavaScript.png" alt="Introduction to HTML, CSS, & JavaScript"></a>
 <a href="https://www.credly.com/badges/2f9621e4-10e4-409d-ac17-03a9509a1bd0" title="Software Engineering Essentials"><img src="https://images.credly.com/size/80x80/images/1b67aaf9-670d-4c92-8d51-7ac1190f0a42/image.png" alt="Software Engineering Essentials"></a>
