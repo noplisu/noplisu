@@ -10,7 +10,7 @@
 <h2 align="left">About Me 🚀</h2>
 
 
-<p align="left">🌱 I’m a Full stack developer with a masters degree in Computer Science.<br>✨ Creating awesome projects since 2013<br>👨‍💻 I am passionate about Web Dev & I enjoy learning new things.</p>
+<p align="left">Senior Full-Stack &amp; AI Engineer with 10+ years building production web systems, RAG / agentic AI integrations, and multi-country e-invoicing.<br>Working remotely through Fractal Soft since 2013 — Rails, NestJS, React, Python, Go, and AWS.<br>Writing and shipping: <a href="https://noplisu.com">noplisu.com</a> · Bookmantic · open-source GOBL.</p>
 
 <img src="https://raw.githubusercontent.com/noplisu/noplisu/output/snake.svg" alt="Snake animation" />
 
