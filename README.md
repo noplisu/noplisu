@@ -22,9 +22,9 @@
 
 <p align="left">
   <a href="https://train.qdrant.dev/certificate/QDRANT-DD9E9575" title="Qdrant Essentials"><img src="badges/qdrant.svg" height="80" alt="Qdrant Essentials"></a>
-  <a href="https://academy.claude.com/verify/acdedfb7467b51df145eba35610632c9" title="Claude Academy: Claude Code 101"><img src="badges/anthropic.svg" height="80" alt="Claude Academy: Claude Code 101"></a>
-  <a href="https://academy.claude.com/verify/42bfa9b662286916c5693728b247a0c9" title="Claude Academy: AI Fluency for builders"><img src="badges/anthropic.svg" height="80" alt="Claude Academy: AI Fluency for builders"></a>
-  <a href="https://www.coursera.org/account/accomplishments/verify/UP8AVLZ6WD1G" title="AWS Cloud Technical Essentials"><img src="badges/aws.svg" height="80" alt="AWS Cloud Technical Essentials"></a>
+  <a href="https://academy.claude.com/verify/acdedfb7467b51df145eba35610632c9" title="Claude Academy: Claude Code 101"><img src="badges/claude-code-101.png" height="80" alt="Claude Academy: Claude Code 101"></a>
+  <a href="https://academy.claude.com/verify/42bfa9b662286916c5693728b247a0c9" title="Claude Academy: AI Fluency for builders"><img src="badges/ai-fluency-for-builders.png" height="80" alt="Claude Academy: AI Fluency for builders"></a>
+  <a href="https://www.coursera.org/account/accomplishments/verify/UP8AVLZ6WD1G" title="AWS Cloud Technical Essentials"><img src="badges/aws.svg" width="80" height="80" alt="AWS Cloud Technical Essentials"></a>
   <a href="https://www.credly.com/badges/877b9833-261e-4e47-aa49-1e044e2a9e28" title="IBM Full Stack Software Developer Professional Certificate (V5)"><img src="https://images.credly.com/size/120x120/images/17add978-0cea-40e8-8832-9492fc7c260b/Coursera_20Full_20Stack_20Software_20Developer_20Prof_20Cert_20V5.png" height="80" alt="IBM Full Stack Software Developer Professional Certificate (V5)"></a>
   <a href="https://www.coursera.org/account/accomplishments/verify/JR9NT3HD4PO1" title="Generative AI: Elevate your Software Development Career"><img src="https://images.credly.com/size/120x120/images/afaacd18-d4a9-48af-b54c-846615756ec7/image.png" height="80" alt="Generative AI: Elevate your Software Development Career"></a>
   <!-- Begin: HubSpot Academy - Inbound Marketing Certified Badge -->
