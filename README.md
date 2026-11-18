@@ -16,8 +16,6 @@
 
 <h2 align="left">Certificates</h2>
 
-<p align="left">Selected credentials first — full Coursera / Credly wall below.</p>
-
 <h3 align="left">Featured</h3>
 
 <p align="left">
